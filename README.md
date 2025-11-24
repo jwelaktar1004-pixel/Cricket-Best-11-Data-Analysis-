@@ -17,3 +17,23 @@ Performance metrics for batting and bowling
 Role-based filters and dynamic team selection in Power BI
 
 End-to-end data analytics workflow
+
+
+---
+
+## 🚀 Technologies Used
+- Python
+- Pandas
+- Power BI
+- DAX
+- JSON
+- Data Modeling (Star Schema)
+
+---
+
+## ⭐ Author  
+Jwel Aktar  
+Data Analyst | BI Developer | Cricket Analytics Enthusiast  
+
+---  
+
