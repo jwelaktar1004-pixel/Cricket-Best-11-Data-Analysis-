@@ -1,5 +1,7 @@
 🏏 Cricket Best 11 – Python & Power BI Project
 
+Real Data Of 2022 World Cup Extracted By Bright Data 
+
 This project identifies the best performing T20 cricket players using real match data sourced from Bright Data.
 Python (Pandas + JSON) was used for data cleaning and preprocessing, and Power BI was used to build an interactive dashboard for analyzing player performance and selecting the optimal “Best 11” team.
 
